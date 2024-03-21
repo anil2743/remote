@@ -1,2 +1,4 @@
 #Addition
-x=a+b
+x=a+
+#substraction
+y=a-b
